@@ -1,0 +1,28 @@
+Server and Client code is included in the folders the client will actually connect to my
+server running on my computer at home feel free to test it to test run both on your own
+machine open the client and in the "Login" class change the IP variable at the top to 
+127.0.0.1 start the server then run the client.
+
+in the client it supports:
+
+"users" - returns the number of users online
+"names" - returns the users usernames unless the are connecting with a previous version
+then it will return null
+"*options*" - returns the options GUI also can be accessed from file/options
+
+some smileys are included try:
+:)
+:p
+:$
+:D
+****
+>(
+
+also most html from html 3.2 is usable try:
+Links, Images, and Text Modifiers like <br>, <i>, <b>, etc.
+
+This version is a beta version and therefore is subject to errors and bugs 0 have 
+been reported to this day.
+
+To report a bug or comment please goto: http://blakers.chemicalskill.com/txtme.php
+and fill out the form.
